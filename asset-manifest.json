@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-app-using-axios/static/css/main.e6c13ad2.css",
+    "main.js": "/weather-app-using-axios/static/js/main.c61605de.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-app-using-axios/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/weather-app-using-axios/index.html",
+    "main.e6c13ad2.css.map": "/weather-app-using-axios/static/css/main.e6c13ad2.css.map",
+    "main.c61605de.js.map": "/weather-app-using-axios/static/js/main.c61605de.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-app-using-axios/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c61605de.js"
+  ]
+}
